@@ -11,7 +11,7 @@ void showNodes(mesh m,int nnodes){
     }
 
 };
-
+// Leer Cordenadas
 void readCoordinates(ifstream &file, int n, item* item_list){
     int e; float r;
     for(int i=0; i<n; i++){
