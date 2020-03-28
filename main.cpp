@@ -1,3 +1,5 @@
+//  Diego Alejandro Rubi Cordova 00121117
+
 #include <fstream>
 #include <iostream>
 #include "classes.h"

@@ -1,3 +1,5 @@
+//  Diego Alejandro Rubi Cordova 00121117
+
 enum lines {NOLINE,SINGLELINE,DOUBLELINE};
 enum modes {NOMODE,INT_FLOAT,INT_INT_INT};
 enum parameters {THERMAL_CONDUCTIVITY,HEAT_SOURCE};
